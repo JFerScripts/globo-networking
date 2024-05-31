@@ -1,4 +1,4 @@
-## Move this backend file to your network config when migrating state
+## Delete this hoe
 terraform {
   cloud {
     # Organization ID
@@ -9,5 +9,3 @@ terraform {
     }
   }
 }
-
-#remote_url = "https://github.com/JFerScripts/globo-networking.git"

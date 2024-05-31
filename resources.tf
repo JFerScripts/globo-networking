@@ -41,7 +41,6 @@ module "main" {
   tags = local.common_tags
 }
 
-#Testing
 # __generated__ by Terraform from "sg-08f2493c778b5676c"
 resource "aws_security_group" "ingress" {
   description = "Security group with no ingress rule"

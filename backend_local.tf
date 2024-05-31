@@ -1,4 +1,4 @@
-## Move this backend file to your network config when migrating state
+## Delete this hoe
 terraform {
   cloud {
     # Organization ID

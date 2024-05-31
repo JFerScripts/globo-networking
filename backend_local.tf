@@ -9,5 +9,3 @@ terraform {
     }
   }
 }
-
-#remote_url = "https://github.com/JFerScripts/globo-networking.git"

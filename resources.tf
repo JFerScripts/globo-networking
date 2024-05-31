@@ -13,7 +13,7 @@ provider "aws" {
 data "aws_availability_zones" "available" {}
 
 ##################################################################################
-# RESOURCES
+# RESOURCES not working
 ##################################################################################
 locals {
   common_tags = {

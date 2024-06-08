@@ -35,7 +35,3 @@ variable "public_subnets" {
   }
 }
 
-variable "billing_code" {
-  type = string
-  description = "(Required) Billing code for network resources"
-}
